@@ -1,0 +1,2 @@
+# Smart-room-temperature-monitoring-system-using-CISCO-Packet-Tracer-tool
+A Smart Room Temperature Monitoring System using CISCO Packet Tracer simulates IoT-based temperature regulation. It uses sensors to monitor room temperature and actuators like smart fans or HVAC systems for automated control. The system enables real-time monitoring and efficient energy management through a virtual network environment.
